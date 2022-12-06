@@ -11,5 +11,5 @@ Easiest way to solve this problem is to count the total number of ways to get 2 
 
 Therefore, answer is (6 + 6 - 1) / (6^3) = 11/216. 
 
-2. 
+## 2. 
 

@@ -1,5 +1,9 @@
 # Probability Fundamental Questions
 
+@settings {
+  font-size: 100;
+  }
+
 **1. Roll a dice 3 times. What is the probability of getting 2 6's in a row?**
 
 Easiest way to solve this problem is to count the total number of ways to get 2 6's in a row, count the total number of 3 roll outcomes, and then 	  divide the two. How many ways to get 2 6's in a row? 

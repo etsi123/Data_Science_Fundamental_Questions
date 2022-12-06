@@ -1,8 +1,8 @@
 # Probability Fundamental Questions
 
-  @settings {
-    font-size: 100;
-  }
+    @settings {
+      font-size: 100;
+    }
 
 **1. Roll a dice 3 times. What is the probability of getting 2 6's in a row?**
 
